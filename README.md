@@ -1,2 +1,5 @@
 # OneFootball
-Target
+
+## Task
+- Daily claim
+- Complete tasks
